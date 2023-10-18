@@ -15,7 +15,10 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React testing from Arun Kamble
+          Code deployed in AWS by following steps
+          1. Create Github repo
+          2. Create CodeBuild in AWS
+          3. Create Code Pipeline
         </a>
       </header>
     </div>
